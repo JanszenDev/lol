@@ -36,7 +36,7 @@
   initialize = function() {
     initHooks();
     wootButton.click();
-    API.sendChat("/Official FrozenFlake Autowooter!/");
+    API.sendChat("/me Official FrozenFlake Autowooter loaded !");
   };
 
   initialize();
